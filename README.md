@@ -1,4 +1,4 @@
- <h1>Hi, I'm Ben, an <a href="https://www.linkedin.com/in/ruben-guerra-88bb84223/">IT SPECIALIST</a>☺</h1>
+ <h1>Hi, I'm Ben, an <a href="https://www.linkedin.com/in/ruben-guerra-88bb84223/">IT Specialist</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
