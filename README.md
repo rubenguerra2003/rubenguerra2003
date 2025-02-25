@@ -10,7 +10,7 @@
   - [Establishing Active Directory within Azure VMs](https://github.com/rubenguerra2003/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rubenguerra2003/azure-network-protocols-)
 - <b>Virtual Private Network
-  - VPN Setup in Virtual Machine
+  - [VPN Setup in Virtual Machine](https://github.com/rubenguerra2003/setting-up-vpn)
 
 
 
